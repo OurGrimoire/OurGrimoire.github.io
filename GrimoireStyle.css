@@ -39,7 +39,10 @@ p {
 	color: black;
 }
 .quote {
-	
+	text-indent: 0px;
+	margin-left: 10%;
+	font-weight: bold;
+	font-style: italic;
 }
 .barrier {
 	height: 40px;
